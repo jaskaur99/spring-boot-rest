@@ -1,4 +1,4 @@
-### Job Posting Portal API
+# Job Posting Portal API
 ## Overview
 This project is a RESTful API built with Spring Boot 3 and Java 21, designed to manage job postings. The API provides endpoints for creating, reading, updating, and deleting job posts, making it easily extendable and scalable.
 ## Features
